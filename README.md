@@ -1,2 +1,2 @@
 # TrainingNLP
-Sentiment analysis on French text, from the basic techniques to the most recent ones.
+Sentiment analysis on French text, from basic techniques to the most recent ones.
