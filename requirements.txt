@@ -3,5 +3,9 @@ ipykernel==6.23.2
 pandas==2.0.3
 nltk==3.8.1
 spacy==3.6.0
+spacy-lefff==0.5.1
 scikit-learn==1.3.0
 scikit-plot==0.3.7
+transformers==4.24.0
+torch==2.0.1
+
