@@ -1,4 +1,7 @@
 ,accuracy,f1
+HF_pretrained_FR,0.824,0.824
+HF_pretrained_FR_clean,0.799,0.799
 lexi_token,0.648,0.648
 lexi_lem,0.648,0.648
 lexi_stem,0.645,0.645
+HF_pretrained_EN,0.639,0.639
