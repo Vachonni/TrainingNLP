@@ -1,6 +1,7 @@
 ,accuracy,f1
 ML_Basic_3grams_TFIDF_NB,0.925,0.925
 HF_Trained,0.925,0.925
+HF_Training_complete,0.893,0.893
 HF_pretrained_FR,0.824,0.824
 HF_pretrained_FR_clean,0.799,0.799
 lexi_token,0.648,0.648
