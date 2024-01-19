@@ -4,6 +4,7 @@ ipython==8.13.0
 ipykernel==6.23.2
 jupyter==1.0.0
 pandas==2.0.3
+peft==0.7.1
 nltk==3.8.1
 spacy==3.6.0
 spacy-lefff==0.5.1
